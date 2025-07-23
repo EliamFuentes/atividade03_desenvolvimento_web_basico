@@ -1,0 +1,45 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+header {
+  background-color: #437c90;
+  color: #fff;
+  margin: 1rem;
+  padding: 1.5rem;
+  border: 3px solid #365e70;
+}
+
+main {
+  background-color: #fff;
+  color: #333;
+  margin: 1rem;
+  padding: 1.5rem;
+  border: 3px solid #ccc;
+}
+
+footer {
+  background-color: #222;
+  color: #fff;
+  margin: 1rem;
+  padding: 1rem;
+  border: 3px solid #555;
+}
+
+h2 {
+  font-size: 1.8rem;
+  text-decoration: underline;
+}
+
+.destaque {
+  font-style: italic;
+  background-color: #eef6fa;
+  padding: 0.5rem;
+}
+
+#importante {
+  border-top: 4px solid #ff6600;
+  padding-top: 0.5rem;
+}
